@@ -1,4 +1,4 @@
-# CPU Trace Analysis & Scheduling Visualization Tool
+# CPU Trace Analysis & Scheduling Visualization 
 
 ## Overview
 This project analyzes CPU execution traces and visualizes task scheduling using an interactive Gantt chart built with Python, Pandas, and Plotly. It transforms raw system logs into structured insights, enabling better understanding of CPU utilization, task duration, and idle time.
